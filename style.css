@@ -1,0 +1,16 @@
+.col {
+    margin: 10px;
+}
+
+.toggle-viewer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  }
+.btn-success {
+    margin: 10px;
+}
+.card-header {
+  display: inline-block;
+  }
